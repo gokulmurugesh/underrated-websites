@@ -8,8 +8,7 @@
 - [Radio Garden](https://radio.garden/) - Listen to live radio all over the world by navigating an interactive globe
 - [webkay](https://webkay.robinlinus.com/) - Check what every Browser knows about you
 - [CodinGame](https://www.codingame.com/) - Learn to code writing a game
-<!-- - [bennettfeely](https://www.bennettfeely.com/clippy/) - Exclusive for Frontend developer -->
 - [EveryCircuit](https://everycircuit.com/app) - Design circuits online
 - [snack.expo.io](https://snack.expo.io/) - code React Native in the browser
 
-
+<!-- [bennettfeely](https://www.bennettfeely.com/clippy/) - Exclusive for Frontend developer -->
