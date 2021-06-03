@@ -10,5 +10,6 @@
 - [CodinGame](https://www.codingame.com/) - Learn to code writing a game
 - [EveryCircuit](https://everycircuit.com/app) - Design circuits online
 - [snack.expo.io](https://snack.expo.io/) - code React Native in the browser
+- [w3schools](https://www.w3schools.com/)- Perfect website to learn programming for free
 
 <!-- [bennettfeely](https://www.bennettfeely.com/clippy/) - Exclusive for Frontend developer -->
